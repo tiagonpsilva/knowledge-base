@@ -1,6 +1,6 @@
-# Acelerando entrega de valor com IA: SageMaker, Bedrock e Generative BI
+# Acelerando a Entrega de Valor com IA: Sagemaker, Bedrock e Amazon Q
 
-*Originalmente publicado no [LinkedIn](https://www.linkedin.com/pulse/acelerando-entrega-de-valor-com-ia-sagemaker-bedrock-e-n-pinto-silva-towhf/) em Dezembro de 2023*
+*Originalmente publicado no [LinkedIn](https://www.linkedin.com/pulse/acelerando-entrega-de-valor-com-ia-sagemaker-bedrock-e-n-pinto-silva-towhf/) em Dezembro de 2024*
 
 ![AWS re:Invent](./images/reinvent2024.png) <!-- Adicione uma imagem relacionada ao re:Invent -->
 
